@@ -1,0 +1,30 @@
+D:\VSC prog\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+D:\VSC prog\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+D:\VSC prog\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+D:\VSC prog\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+D:\VSC prog\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.AssemblyReference.cache
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+D:\VSC prog\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\bin\Debug\net6.0\Lab6.exe
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\bin\Debug\net6.0\Lab6.deps.json
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\bin\Debug\net6.0\Lab6.runtimeconfig.json
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\bin\Debug\net6.0\Lab6.dll
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\bin\Debug\net6.0\Lab6.pdb
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfoInputs.cache
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.AssemblyInfo.cs
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.csproj.CoreCompileInputs.cache
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.sourcelink.json
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.dll
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\refint\Lab6.dll
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.pdb
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\Lab6.genruntimeconfig.cache
+C:\Users\moroz\source\repos\DreamerHDR\ALL_Projects\Lab6\Lab6\obj\Debug\net6.0\ref\Lab6.dll
